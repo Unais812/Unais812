@@ -4,7 +4,7 @@ I am currently in my 1st year of college so i am trying to balance college and D
 
 Join me while i embark on a journey following my passion ✨
 
-📚 My skills: Linux | Bash scripting | Git | Networking | Docker
+📚 My skills: IaC (Terraform) | AWS | CI/CD (GitHub actions) | Docker | Linux
 
 🔭 im currently working on: A project which combines all my skills - this will assist in solidifying these areas and increase my confidence!
 

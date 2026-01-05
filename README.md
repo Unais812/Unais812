@@ -1,9 +1,13 @@
 # About me 
 Hello there! \
 My name is Unais and I am a 16 year old DevOps engineer \
+\
 Whilst others my age are playing games \
+\
 Im deploying scalable production grade infrastructure and focusing on upskilling to gain the relevant experience required for DevOps roles \ 
-I am actively contributing to DevOps communities where i share knowledge and showcase projects to help others on a similar path 
+\
+I am actively contributing to DevOps communities where i share knowledge and showcase projects to help others on a similar path \
+\
 
 📪 How to reach me: 
 LinkedIn: https://www.linkedin.com/in/unais-ra/
